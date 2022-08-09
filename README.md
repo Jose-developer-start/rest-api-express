@@ -1,4 +1,6 @@
 ### Rest API con Express
+### Configuración
+#``` npm install ```
 
 #### METHOD
 
